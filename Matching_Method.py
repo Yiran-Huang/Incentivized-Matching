@@ -51,7 +51,7 @@ def matching_procedure(X, true_beta, true_G, true_gamma, true_const,
                   quota1 = None, quota2 = None, propose = 1, largevalue = 1e5,
                   program_name = "",
                   print_process = False, get_error = torch.randn,
-                  use_sparse = True, parallel_num = 4, epsilon_explo = 0.1,part_IC_matrix=None,target=None,
+                  use_sparse = True, parallel_num = 4,part_IC_matrix=None,target=None,
                   get_true=get_true_info):
 
     # X M*d, covariates of current agents
