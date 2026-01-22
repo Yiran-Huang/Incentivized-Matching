@@ -1,6 +1,6 @@
 # STATISTICAL MATCHING MARKETS UNDER UNCERTAIN PREFERENCES
 
-We provide the code for the paper. A Jupyter Notebook is also included to directly generate the figures from the uploaded outputs, without rerunning the code.
+We provide the code for the paper. A Jupyter Notebook (in the `Paper_Outcomes` folder) is also included to directly generate the figures from the uploaded outputs, without rerunning the code.
 
 Each experiment module is stored in a separate folder. The files “DA_algorithm.py”, “get_bound.py”, “Matching_Method.py”, and “Matching_Method_non_covariates.py” are shared across all modules and are therefore placed in the root directory. To run the code, enter the relevant folder and follow the instructions in its README file.
 
